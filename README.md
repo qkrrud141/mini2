@@ -1,2 +1,3 @@
-# mini2
-- 장바구니 기능
+## Sidebar
+
+Sidebar 기능 개발
